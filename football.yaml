@@ -1,0 +1,7 @@
+path: path_to_dataset/football_dataset_yolo
+train: images/train
+val: images/val
+
+names:
+  0: player
+  1: ball
